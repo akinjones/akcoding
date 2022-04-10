@@ -1,2 +1,2 @@
 # akcoding
-My python learning project
+My python learning project sample
